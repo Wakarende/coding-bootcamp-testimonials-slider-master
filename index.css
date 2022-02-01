@@ -22,7 +22,8 @@ body{
  
 }
 
-.carousel .carousel-item{
+.carousel .carousel-item,
+.carousel .carousel-item-hidden{
   display: none;
 }
 
